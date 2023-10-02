@@ -117,6 +117,7 @@ button {
     border-width: 1px;
     border-color: black;
     background-color: transparent;
+    cursor: pointer;
 }
 
 h1 {
